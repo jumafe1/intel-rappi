@@ -1,0 +1,6142 @@
+{
+  "run_id": "9063ede5",
+  "started_at": "2026-04-21T19:44:29.906495",
+  "completed_at": "2026-04-21T19:53:51.325887",
+  "total_snapshots": 40,
+  "successful": 40,
+  "failed": 0,
+  "snapshots": [
+    {
+      "platform": "uber_eats",
+      "zone_name": "Polanco",
+      "zone_category": "premium",
+      "zone_lat": 19.4326,
+      "zone_lng": -99.1956,
+      "zone_address_input": "Av. Presidente Masaryk 200, Polanco V Secc, Miguel Hidalgo, 11560 CDMX",
+      "zone_address_resolved": "Av. Pdte. Masaryk 200",
+      "restaurant_brand": "McDonald's",
+      "brand_id": null,
+      "store_id": "45bcf554-f04f-4ef5-ac52-22ed5b9c2c2e",
+      "store_name": "McDonald's Antara",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "16 min",
+      "eta_minutes": 16,
+      "is_open": true,
+      "rating": 4.5,
+      "discount_count": 2,
+      "products_total": 82,
+      "products_matched": {
+        "Big Mac": [
+          {
+            "section": "",
+            "name": "Home Office con Big Mac",
+            "description": "Home Office con Big Mac",
+            "price": 99.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío Big Mac mediano+McFlurry Oreo",
+            "description": "McTrío Big Mac mediano+McFlurry Oreo",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino + favoritos",
+            "description": "Big Mac Tocino + favoritos",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac Tocino",
+            "description": "McTrío mediano Big Mac Tocino",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino",
+            "description": "Big Mac Tocino",
+            "price": 145.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac",
+            "description": "McTrío mediano Big Mac",
+            "price": 149.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac",
+            "description": "Big Mac",
+            "price": 125.0,
+            "currency": "MXN"
+          }
+        ],
+        "McNuggets": [
+          {
+            "section": "",
+            "name": "McNuggets y Papas para Todos",
+            "description": "McNuggets y Papas para Todos",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz  McNuggets Plus",
+            "description": "Cajita Feliz  McNuggets Plus",
+            "price": 229.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrio mediano McNuggets 10 pzas",
+            "description": "McTrio mediano McNuggets 10 pzas",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano McNuggets 20 pzas",
+            "description": "McTrío mediano McNuggets 20 pzas",
+            "price": 219.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "description": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "price": 145.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 4 pzas",
+            "description": "McNuggets de Pollo 4 pzas",
+            "price": 59.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 10 pzas",
+            "description": "McNuggets de Pollo 10 pzas",
+            "price": 135.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 6 pzas",
+            "description": "McNuggets de Pollo 6 pzas",
+            "price": 89.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 20 pzas",
+            "description": "McNuggets de Pollo 20 pzas",
+            "price": 199.0,
+            "currency": "MXN"
+          }
+        ],
+        "Cuarto": [
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra con Queso",
+            "description": "McTrío mediano Cuarto de Libra con Queso",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "description": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cuarto De Libra Con Queso",
+            "description": "Cuarto De Libra Con Queso",
+            "price": 135.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:44:58.127425",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Polanco",
+      "zone_category": "premium",
+      "zone_lat": 19.4326,
+      "zone_lng": -99.1956,
+      "zone_address_input": "Av. Presidente Masaryk 200, Polanco V Secc, Miguel Hidalgo, 11560 CDMX",
+      "zone_address_resolved": "Av. Pdte. Masaryk 200",
+      "restaurant_brand": "Domino's Pizza",
+      "brand_id": null,
+      "store_id": "7652c19d-ebc2-4817-9a13-e0d0d67e5434",
+      "store_name": "Domino's Anzures",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "12 min",
+      "eta_minutes": 12,
+      "is_open": true,
+      "rating": 4.6,
+      "discount_count": 7,
+      "products_total": 57,
+      "products_matched": {
+        "Mediana": [
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Papotas Gratis",
+            "description": "Mediana 1 ing + Papotas Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Canela  Gratis",
+            "description": "Mediana 1 ing + Canela  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "description": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Mediana",
+            "description": "Pizza Mediana",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Cajeta  Gratis",
+            "description": "Mediana 1 ing + Cajeta  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes",
+            "description": "Pizza mediana Croissant 1-4 ingredientes",
+            "price": 239.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "description": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "price": 299.0,
+            "currency": "MXN"
+          }
+        ],
+        "Grande": [
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Grande",
+            "description": "Pizza Grande",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Grande 1 ing + Papotas",
+            "description": "Grande 1 ing + Papotas",
+            "price": 318.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "2 Pizzas Grandes",
+            "description": "2 Pizzas Grandes",
+            "price": 319.0,
+            "currency": "MXN"
+          }
+        ],
+        "Combo": [
+          {
+            "section": "",
+            "name": "Combo Adicionales Abril",
+            "description": "Combo Adicionales Abril",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Mi Domino’s Abril",
+            "description": "Combo Mi Domino’s Abril",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:44:58.127756",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Lomas de Chapultepec",
+      "zone_category": "premium",
+      "zone_lat": 19.4263,
+      "zone_lng": -99.2397,
+      "zone_address_input": "Paseo de la Reforma 1100, Lomas de Chapultepec, Miguel Hidalgo, 11000 CDMX",
+      "zone_address_resolved": "Av. P.º de la Reforma 1100",
+      "restaurant_brand": "McDonald's",
+      "brand_id": null,
+      "store_id": "962ad4cc-758c-43a8-9a90-8bcd67cf47ab",
+      "store_name": "McDonald's Lomas Plaza",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "13 min",
+      "eta_minutes": 13,
+      "is_open": true,
+      "rating": 4.6,
+      "discount_count": 2,
+      "products_total": 84,
+      "products_matched": {
+        "Big Mac": [
+          {
+            "section": "",
+            "name": "McTrío Big Mac mediano+McFlurry Oreo",
+            "description": "McTrío Big Mac mediano+McFlurry Oreo",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Home Office con Big Mac",
+            "description": "Home Office con Big Mac",
+            "price": 99.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino + favoritos",
+            "description": "Big Mac Tocino + favoritos",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac Tocino",
+            "description": "McTrío mediano Big Mac Tocino",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino",
+            "description": "Big Mac Tocino",
+            "price": 145.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac",
+            "description": "McTrío mediano Big Mac",
+            "price": 149.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac",
+            "description": "Big Mac",
+            "price": 125.0,
+            "currency": "MXN"
+          }
+        ],
+        "McNuggets": [
+          {
+            "section": "",
+            "name": "McNuggets y Papas para Todos",
+            "description": "McNuggets y Papas para Todos",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz  McNuggets Plus",
+            "description": "Cajita Feliz  McNuggets Plus",
+            "price": 229.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrio mediano McNuggets 10 pzas",
+            "description": "McTrio mediano McNuggets 10 pzas",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano McNuggets 20 pzas",
+            "description": "McTrío mediano McNuggets 20 pzas",
+            "price": 219.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "description": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "price": 149.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 4 pzas",
+            "description": "McNuggets de Pollo 4 pzas",
+            "price": 59.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 10 pzas",
+            "description": "McNuggets de Pollo 10 pzas",
+            "price": 135.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 6 pzas",
+            "description": "McNuggets de Pollo 6 pzas",
+            "price": 89.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 20 pzas",
+            "description": "McNuggets de Pollo 20 pzas",
+            "price": 199.0,
+            "currency": "MXN"
+          }
+        ],
+        "Cuarto": [
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra con Queso",
+            "description": "McTrío mediano Cuarto de Libra con Queso",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "description": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cuarto De Libra Con Queso",
+            "description": "Cuarto De Libra Con Queso",
+            "price": 135.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:45:25.370893",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Lomas de Chapultepec",
+      "zone_category": "premium",
+      "zone_lat": 19.4263,
+      "zone_lng": -99.2397,
+      "zone_address_input": "Paseo de la Reforma 1100, Lomas de Chapultepec, Miguel Hidalgo, 11000 CDMX",
+      "zone_address_resolved": "Av. P.º de la Reforma 1100",
+      "restaurant_brand": "Domino's Pizza",
+      "brand_id": null,
+      "store_id": "058975db-c8e0-4292-8cee-58a377584314",
+      "store_name": "Domino's Prado Norte",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "10 min",
+      "eta_minutes": 10,
+      "is_open": true,
+      "rating": 4.6,
+      "discount_count": 7,
+      "products_total": 57,
+      "products_matched": {
+        "Mediana": [
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Cajeta  Gratis",
+            "description": "Mediana 1 ing + Cajeta  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Canela  Gratis",
+            "description": "Mediana 1 ing + Canela  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Papotas Gratis",
+            "description": "Mediana 1 ing + Papotas Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "description": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes",
+            "description": "Pizza mediana Croissant 1-4 ingredientes",
+            "price": 239.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Mediana",
+            "description": "Pizza Mediana",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "description": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "price": 299.0,
+            "currency": "MXN"
+          }
+        ],
+        "Grande": [
+          {
+            "section": "",
+            "name": "2 Pizzas Grandes",
+            "description": "2 Pizzas Grandes",
+            "price": 319.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Grande",
+            "description": "Pizza Grande",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Grande 1 ing + Papotas",
+            "description": "Grande 1 ing + Papotas",
+            "price": 318.0,
+            "currency": "MXN"
+          }
+        ],
+        "Combo": [
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Mi Domino’s Abril",
+            "description": "Combo Mi Domino’s Abril",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Adicionales Abril",
+            "description": "Combo Adicionales Abril",
+            "price": 159.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:45:25.371013",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Roma Norte",
+      "zone_category": "premium",
+      "zone_lat": 19.4195,
+      "zone_lng": -99.1607,
+      "zone_address_input": "Av. Álvaro Obregón 99, Roma Norte, Cuauhtémoc, 06700 CDMX",
+      "zone_address_resolved": "Av. Álvaro Obregón 99",
+      "restaurant_brand": "McDonald's",
+      "brand_id": null,
+      "store_id": "fe00d38a-3022-4ab3-9a2f-d7c12847581f",
+      "store_name": "McDonald's Cuauhtémoc",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "10 min",
+      "eta_minutes": 10,
+      "is_open": true,
+      "rating": 4.5,
+      "discount_count": 2,
+      "products_total": 85,
+      "products_matched": {
+        "Big Mac": [
+          {
+            "section": "",
+            "name": "McTrío Big Mac mediano+McFlurry Oreo",
+            "description": "McTrío Big Mac mediano+McFlurry Oreo",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino + favoritos",
+            "description": "Big Mac Tocino + favoritos",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Home Office con Big Mac",
+            "description": "Home Office con Big Mac",
+            "price": 99.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac Tocino",
+            "description": "McTrío mediano Big Mac Tocino",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino",
+            "description": "Big Mac Tocino",
+            "price": 145.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac",
+            "description": "McTrío mediano Big Mac",
+            "price": 149.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac",
+            "description": "Big Mac",
+            "price": 125.0,
+            "currency": "MXN"
+          }
+        ],
+        "McNuggets": [
+          {
+            "section": "",
+            "name": "Cajita Feliz  McNuggets Plus",
+            "description": "Cajita Feliz  McNuggets Plus",
+            "price": 229.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets y Papas para Todos",
+            "description": "McNuggets y Papas para Todos",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrio mediano McNuggets 10 pzas",
+            "description": "McTrio mediano McNuggets 10 pzas",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano McNuggets 20 pzas",
+            "description": "McTrío mediano McNuggets 20 pzas",
+            "price": 219.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "description": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "price": 149.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 4 pzas",
+            "description": "McNuggets de Pollo 4 pzas",
+            "price": 59.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 10 pzas",
+            "description": "McNuggets de Pollo 10 pzas",
+            "price": 135.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 6 pzas",
+            "description": "McNuggets de Pollo 6 pzas",
+            "price": 89.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 20 pzas",
+            "description": "McNuggets de Pollo 20 pzas",
+            "price": 199.0,
+            "currency": "MXN"
+          }
+        ],
+        "Cuarto": [
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra con Queso",
+            "description": "McTrío mediano Cuarto de Libra con Queso",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "description": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cuarto De Libra Con Queso",
+            "description": "Cuarto De Libra Con Queso",
+            "price": 135.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:45:52.647447",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Roma Norte",
+      "zone_category": "premium",
+      "zone_lat": 19.4195,
+      "zone_lng": -99.1607,
+      "zone_address_input": "Av. Álvaro Obregón 99, Roma Norte, Cuauhtémoc, 06700 CDMX",
+      "zone_address_resolved": "Av. Álvaro Obregón 99",
+      "restaurant_brand": "Domino's Pizza",
+      "brand_id": null,
+      "store_id": "e8f4e4e2-0197-4b82-93b9-7535e39cc8c4",
+      "store_name": "Domino's Plaza Cuauhtémoc",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "12 min",
+      "eta_minutes": 12,
+      "is_open": true,
+      "rating": 4.5,
+      "discount_count": 7,
+      "products_total": 57,
+      "products_matched": {
+        "Mediana": [
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Canela  Gratis",
+            "description": "Mediana 1 ing + Canela  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Mediana",
+            "description": "Pizza Mediana",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "description": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes",
+            "description": "Pizza mediana Croissant 1-4 ingredientes",
+            "price": 239.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Cajeta  Gratis",
+            "description": "Mediana 1 ing + Cajeta  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "description": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Papotas Gratis",
+            "description": "Mediana 1 ing + Papotas Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          }
+        ],
+        "Grande": [
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "2 Pizzas Grandes",
+            "description": "2 Pizzas Grandes",
+            "price": 319.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Grande",
+            "description": "Pizza Grande",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Grande 1 ing + Papotas",
+            "description": "Grande 1 ing + Papotas",
+            "price": 308.0,
+            "currency": "MXN"
+          }
+        ],
+        "Combo": [
+          {
+            "section": "",
+            "name": "Combo Mi Domino’s Abril",
+            "description": "Combo Mi Domino’s Abril",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Adicionales Abril",
+            "description": "Combo Adicionales Abril",
+            "price": 159.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:45:52.647626",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Condesa",
+      "zone_category": "premium",
+      "zone_lat": 19.4112,
+      "zone_lng": -99.1718,
+      "zone_address_input": "Av. Amsterdam 120, Hipódromo Condesa, Cuauhtémoc, 06100 CDMX",
+      "zone_address_resolved": "Ámsterdam 120",
+      "restaurant_brand": "McDonald's",
+      "brand_id": null,
+      "store_id": "99110872-0df2-4611-a74b-a21420bd86b9",
+      "store_name": "McDonald's Sears Insurgentes",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "14 min",
+      "eta_minutes": 14,
+      "is_open": true,
+      "rating": 4.5,
+      "discount_count": 2,
+      "products_total": 80,
+      "products_matched": {
+        "Big Mac": [
+          {
+            "section": "",
+            "name": "McTrío Big Mac mediano+McFlurry Oreo",
+            "description": "McTrío Big Mac mediano+McFlurry Oreo",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Home Office con Big Mac",
+            "description": "Home Office con Big Mac",
+            "price": 99.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino + favoritos",
+            "description": "Big Mac Tocino + favoritos",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac Tocino",
+            "description": "McTrío mediano Big Mac Tocino",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino",
+            "description": "Big Mac Tocino",
+            "price": 145.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac",
+            "description": "McTrío mediano Big Mac",
+            "price": 149.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac",
+            "description": "Big Mac",
+            "price": 125.0,
+            "currency": "MXN"
+          }
+        ],
+        "McNuggets": [
+          {
+            "section": "",
+            "name": "Cajita Feliz  McNuggets Plus",
+            "description": "Cajita Feliz  McNuggets Plus",
+            "price": 229.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets y Papas para Todos",
+            "description": "McNuggets y Papas para Todos",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrio mediano McNuggets 10 pzas",
+            "description": "McTrio mediano McNuggets 10 pzas",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano McNuggets 20 pzas",
+            "description": "McTrío mediano McNuggets 20 pzas",
+            "price": 219.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "description": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "price": 145.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 4 pzas",
+            "description": "McNuggets de Pollo 4 pzas",
+            "price": 59.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 10 pzas",
+            "description": "McNuggets de Pollo 10 pzas",
+            "price": 135.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 6 pzas",
+            "description": "McNuggets de Pollo 6 pzas",
+            "price": 89.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 20 pzas",
+            "description": "McNuggets de Pollo 20 pzas",
+            "price": 199.0,
+            "currency": "MXN"
+          }
+        ],
+        "Cuarto": [
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra con Queso",
+            "description": "McTrío mediano Cuarto de Libra con Queso",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "description": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cuarto De Libra Con Queso",
+            "description": "Cuarto De Libra Con Queso",
+            "price": 135.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:46:20.986316",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Condesa",
+      "zone_category": "premium",
+      "zone_lat": 19.4112,
+      "zone_lng": -99.1718,
+      "zone_address_input": "Av. Amsterdam 120, Hipódromo Condesa, Cuauhtémoc, 06100 CDMX",
+      "zone_address_resolved": "Ámsterdam 120",
+      "restaurant_brand": "Domino's Pizza",
+      "brand_id": null,
+      "store_id": "ba66e2a1-e566-43a1-a869-999a3c0030d3",
+      "store_name": "Domino's Condesa",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "13 min",
+      "eta_minutes": 13,
+      "is_open": true,
+      "rating": 4.7,
+      "discount_count": 7,
+      "products_total": 57,
+      "products_matched": {
+        "Mediana": [
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Canela  Gratis",
+            "description": "Mediana 1 ing + Canela  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Papotas Gratis",
+            "description": "Mediana 1 ing + Papotas Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Cajeta  Gratis",
+            "description": "Mediana 1 ing + Cajeta  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "description": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Mediana",
+            "description": "Pizza Mediana",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes",
+            "description": "Pizza mediana Croissant 1-4 ingredientes",
+            "price": 239.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "description": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "price": 299.0,
+            "currency": "MXN"
+          }
+        ],
+        "Grande": [
+          {
+            "section": "",
+            "name": "2 Pizzas Grandes",
+            "description": "2 Pizzas Grandes",
+            "price": 319.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Grande",
+            "description": "Pizza Grande",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Grande 1 ing + Papotas",
+            "description": "Grande 1 ing + Papotas",
+            "price": 318.0,
+            "currency": "MXN"
+          }
+        ],
+        "Combo": [
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Mi Domino’s Abril",
+            "description": "Combo Mi Domino’s Abril",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Adicionales Abril",
+            "description": "Combo Adicionales Abril",
+            "price": 159.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:46:20.986452",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Santa Fe",
+      "zone_category": "premium",
+      "zone_lat": 19.3619,
+      "zone_lng": -99.2728,
+      "zone_address_input": "Av. Vasco de Quiroga 3800, Santa Fe, Cuajimalpa, 05348 CDMX",
+      "zone_address_resolved": "Vasco de Quiroga 3800",
+      "restaurant_brand": "McDonald's",
+      "brand_id": null,
+      "store_id": "57bec00b-7272-4bcf-9a96-862f8f86a0f7",
+      "store_name": "McDonald's Santa Fe Zentrika",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "12 min",
+      "eta_minutes": 12,
+      "is_open": true,
+      "rating": 4.5,
+      "discount_count": 2,
+      "products_total": 85,
+      "products_matched": {
+        "Big Mac": [
+          {
+            "section": "",
+            "name": "McTrío Big Mac mediano+McFlurry Oreo",
+            "description": "McTrío Big Mac mediano+McFlurry Oreo",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Home Office con Big Mac",
+            "description": "Home Office con Big Mac",
+            "price": 99.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino + favoritos",
+            "description": "Big Mac Tocino + favoritos",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac Tocino",
+            "description": "McTrío mediano Big Mac Tocino",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino",
+            "description": "Big Mac Tocino",
+            "price": 165.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac",
+            "description": "McTrío mediano Big Mac",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac",
+            "description": "Big Mac",
+            "price": 145.0,
+            "currency": "MXN"
+          }
+        ],
+        "McNuggets": [
+          {
+            "section": "",
+            "name": "Cajita Feliz  McNuggets Plus",
+            "description": "Cajita Feliz  McNuggets Plus",
+            "price": 229.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets y Papas para Todos",
+            "description": "McNuggets y Papas para Todos",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrio mediano McNuggets 10 pzas",
+            "description": "McTrio mediano McNuggets 10 pzas",
+            "price": 179.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano McNuggets 20 pzas",
+            "description": "McTrío mediano McNuggets 20 pzas",
+            "price": 229.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "description": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 4 pzas",
+            "description": "McNuggets de Pollo 4 pzas",
+            "price": 59.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 10 pzas",
+            "description": "McNuggets de Pollo 10 pzas",
+            "price": 155.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 6 pzas",
+            "description": "McNuggets de Pollo 6 pzas",
+            "price": 109.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 20 pzas",
+            "description": "McNuggets de Pollo 20 pzas",
+            "price": 209.0,
+            "currency": "MXN"
+          }
+        ],
+        "Cuarto": [
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra con Queso",
+            "description": "McTrío mediano Cuarto de Libra con Queso",
+            "price": 179.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "description": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "price": 209.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cuarto De Libra Con Queso",
+            "description": "Cuarto De Libra Con Queso",
+            "price": 155.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:46:47.853932",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Santa Fe",
+      "zone_category": "premium",
+      "zone_lat": 19.3619,
+      "zone_lng": -99.2728,
+      "zone_address_input": "Av. Vasco de Quiroga 3800, Santa Fe, Cuajimalpa, 05348 CDMX",
+      "zone_address_resolved": "Vasco de Quiroga 3800",
+      "restaurant_brand": "Domino's Pizza",
+      "brand_id": null,
+      "store_id": "ea1a11dd-8f88-4829-bbc9-841a30643168",
+      "store_name": "Domino's Torre Diamante ",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "16 min",
+      "eta_minutes": 16,
+      "is_open": true,
+      "rating": 4.3,
+      "discount_count": 7,
+      "products_total": 57,
+      "products_matched": {
+        "Mediana": [
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Canela  Gratis",
+            "description": "Mediana 1 ing + Canela  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Mediana",
+            "description": "Pizza Mediana",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "description": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes",
+            "description": "Pizza mediana Croissant 1-4 ingredientes",
+            "price": 239.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Papotas Gratis",
+            "description": "Mediana 1 ing + Papotas Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Cajeta  Gratis",
+            "description": "Mediana 1 ing + Cajeta  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "description": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "price": 299.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          }
+        ],
+        "Grande": [
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Grande",
+            "description": "Pizza Grande",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Grande 1 ing + Papotas",
+            "description": "Grande 1 ing + Papotas",
+            "price": 318.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "2 Pizzas Grandes",
+            "description": "2 Pizzas Grandes",
+            "price": 319.0,
+            "currency": "MXN"
+          }
+        ],
+        "Combo": [
+          {
+            "section": "",
+            "name": "Combo Adicionales Abril",
+            "description": "Combo Adicionales Abril",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Mi Domino’s Abril",
+            "description": "Combo Mi Domino’s Abril",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:46:47.854057",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Coyoacán Centro",
+      "zone_category": "premium",
+      "zone_lat": 19.3509,
+      "zone_lng": -99.1617,
+      "zone_address_input": "Jardín Plaza Hidalgo 1, Villa Coyoacán, Coyoacán, 04000 CDMX",
+      "zone_address_resolved": "Jardín Plaza Hidalgo 1",
+      "restaurant_brand": "McDonald's",
+      "brand_id": null,
+      "store_id": "c57acd85-74fd-4a4e-a008-539dcc00e5de",
+      "store_name": "McDonald's División del Norte",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "10 min",
+      "eta_minutes": 10,
+      "is_open": true,
+      "rating": 4.6,
+      "discount_count": 2,
+      "products_total": 85,
+      "products_matched": {
+        "Big Mac": [
+          {
+            "section": "",
+            "name": "Big Mac Tocino + favoritos",
+            "description": "Big Mac Tocino + favoritos",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Home Office con Big Mac",
+            "description": "Home Office con Big Mac",
+            "price": 99.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío Big Mac mediano+McFlurry Oreo",
+            "description": "McTrío Big Mac mediano+McFlurry Oreo",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac Tocino",
+            "description": "McTrío mediano Big Mac Tocino",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino",
+            "description": "Big Mac Tocino",
+            "price": 165.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac",
+            "description": "McTrío mediano Big Mac",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac",
+            "description": "Big Mac",
+            "price": 145.0,
+            "currency": "MXN"
+          }
+        ],
+        "McNuggets": [
+          {
+            "section": "",
+            "name": "McNuggets y Papas para Todos",
+            "description": "McNuggets y Papas para Todos",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz  McNuggets Plus",
+            "description": "Cajita Feliz  McNuggets Plus",
+            "price": 229.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrio mediano McNuggets 10 pzas",
+            "description": "McTrio mediano McNuggets 10 pzas",
+            "price": 179.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano McNuggets 20 pzas",
+            "description": "McTrío mediano McNuggets 20 pzas",
+            "price": 229.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "description": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 4 pzas",
+            "description": "McNuggets de Pollo 4 pzas",
+            "price": 59.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 10 pzas",
+            "description": "McNuggets de Pollo 10 pzas",
+            "price": 155.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 6 pzas",
+            "description": "McNuggets de Pollo 6 pzas",
+            "price": 109.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 20 pzas",
+            "description": "McNuggets de Pollo 20 pzas",
+            "price": 209.0,
+            "currency": "MXN"
+          }
+        ],
+        "Cuarto": [
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra con Queso",
+            "description": "McTrío mediano Cuarto de Libra con Queso",
+            "price": 179.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "description": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "price": 209.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cuarto De Libra Con Queso",
+            "description": "Cuarto De Libra Con Queso",
+            "price": 155.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:47:20.374248",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Coyoacán Centro",
+      "zone_category": "premium",
+      "zone_lat": 19.3509,
+      "zone_lng": -99.1617,
+      "zone_address_input": "Jardín Plaza Hidalgo 1, Villa Coyoacán, Coyoacán, 04000 CDMX",
+      "zone_address_resolved": "Jardín Plaza Hidalgo 1",
+      "restaurant_brand": "Domino's Pizza",
+      "brand_id": null,
+      "store_id": "a036943e-d6c6-48d1-95d4-b5818d659079",
+      "store_name": "Domino's Aztecas Sur",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "16 min",
+      "eta_minutes": 16,
+      "is_open": true,
+      "rating": 4.4,
+      "discount_count": 7,
+      "products_total": 57,
+      "products_matched": {
+        "Mediana": [
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "description": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Mediana",
+            "description": "Pizza Mediana",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Cajeta  Gratis",
+            "description": "Mediana 1 ing + Cajeta  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Canela  Gratis",
+            "description": "Mediana 1 ing + Canela  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Papotas Gratis",
+            "description": "Mediana 1 ing + Papotas Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes",
+            "description": "Pizza mediana Croissant 1-4 ingredientes",
+            "price": 239.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "description": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "price": 299.0,
+            "currency": "MXN"
+          }
+        ],
+        "Grande": [
+          {
+            "section": "",
+            "name": "Pizza Grande",
+            "description": "Pizza Grande",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "2 Pizzas Grandes",
+            "description": "2 Pizzas Grandes",
+            "price": 319.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Grande 1 ing + Papotas",
+            "description": "Grande 1 ing + Papotas",
+            "price": 318.0,
+            "currency": "MXN"
+          }
+        ],
+        "Combo": [
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Mi Domino’s Abril",
+            "description": "Combo Mi Domino’s Abril",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Adicionales Abril",
+            "description": "Combo Adicionales Abril",
+            "price": 159.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:47:20.374363",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Narvarte",
+      "zone_category": "medio",
+      "zone_lat": 19.3924,
+      "zone_lng": -99.1561,
+      "zone_address_input": "Eje Central Lázaro Cárdenas 1036, Narvarte Poniente, Benito Juárez, 03020 CDMX",
+      "zone_address_resolved": "Eje Central Lázaro Cárdenas 1036",
+      "restaurant_brand": "McDonald's",
+      "brand_id": null,
+      "store_id": "cf6920df-4fca-41fb-980b-6c3adff1e4e1",
+      "store_name": "McDonald's Municipio Libre ",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "14 min",
+      "eta_minutes": 14,
+      "is_open": true,
+      "rating": 4.5,
+      "discount_count": 2,
+      "products_total": 85,
+      "products_matched": {
+        "Big Mac": [
+          {
+            "section": "",
+            "name": "Big Mac Tocino + favoritos",
+            "description": "Big Mac Tocino + favoritos",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío Big Mac mediano+McFlurry Oreo",
+            "description": "McTrío Big Mac mediano+McFlurry Oreo",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Home Office con Big Mac",
+            "description": "Home Office con Big Mac",
+            "price": 99.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac Tocino",
+            "description": "McTrío mediano Big Mac Tocino",
+            "price": 179.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino",
+            "description": "Big Mac Tocino",
+            "price": 155.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac",
+            "description": "McTrío mediano Big Mac",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac",
+            "description": "Big Mac",
+            "price": 135.0,
+            "currency": "MXN"
+          }
+        ],
+        "McNuggets": [
+          {
+            "section": "",
+            "name": "McNuggets y Papas para Todos",
+            "description": "McNuggets y Papas para Todos",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz  McNuggets Plus",
+            "description": "Cajita Feliz  McNuggets Plus",
+            "price": 229.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrio mediano McNuggets 10 pzas",
+            "description": "McTrio mediano McNuggets 10 pzas",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano McNuggets 20 pzas",
+            "description": "McTrío mediano McNuggets 20 pzas",
+            "price": 219.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "description": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "price": 149.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 4 pzas",
+            "description": "McNuggets de Pollo 4 pzas",
+            "price": 59.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 10 pzas",
+            "description": "McNuggets de Pollo 10 pzas",
+            "price": 145.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 6 pzas",
+            "description": "McNuggets de Pollo 6 pzas",
+            "price": 99.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 20 pzas",
+            "description": "McNuggets de Pollo 20 pzas",
+            "price": 199.0,
+            "currency": "MXN"
+          }
+        ],
+        "Cuarto": [
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra con Queso",
+            "description": "McTrío mediano Cuarto de Libra con Queso",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "description": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cuarto De Libra Con Queso",
+            "description": "Cuarto De Libra Con Queso",
+            "price": 145.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:47:49.196996",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Narvarte",
+      "zone_category": "medio",
+      "zone_lat": 19.3924,
+      "zone_lng": -99.1561,
+      "zone_address_input": "Eje Central Lázaro Cárdenas 1036, Narvarte Poniente, Benito Juárez, 03020 CDMX",
+      "zone_address_resolved": "Eje Central Lázaro Cárdenas 1036",
+      "restaurant_brand": "Domino's Pizza",
+      "brand_id": null,
+      "store_id": "e54383ac-d4a4-42ef-94e3-cfbb4a483fc0",
+      "store_name": "Domino's Narvarte",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "12 min",
+      "eta_minutes": 12,
+      "is_open": true,
+      "rating": 4.6,
+      "discount_count": 7,
+      "products_total": 57,
+      "products_matched": {
+        "Mediana": [
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Canela  Gratis",
+            "description": "Mediana 1 ing + Canela  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes",
+            "description": "Pizza mediana Croissant 1-4 ingredientes",
+            "price": 239.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Cajeta  Gratis",
+            "description": "Mediana 1 ing + Cajeta  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Mediana",
+            "description": "Pizza Mediana",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "description": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Papotas Gratis",
+            "description": "Mediana 1 ing + Papotas Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "description": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "price": 299.0,
+            "currency": "MXN"
+          }
+        ],
+        "Grande": [
+          {
+            "section": "",
+            "name": "Pizza Grande",
+            "description": "Pizza Grande",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "2 Pizzas Grandes",
+            "description": "2 Pizzas Grandes",
+            "price": 319.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Grande 1 ing + Papotas",
+            "description": "Grande 1 ing + Papotas",
+            "price": 318.0,
+            "currency": "MXN"
+          }
+        ],
+        "Combo": [
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Mi Domino’s Abril",
+            "description": "Combo Mi Domino’s Abril",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Adicionales Abril",
+            "description": "Combo Adicionales Abril",
+            "price": 159.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:47:49.197124",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Escandón",
+      "zone_category": "medio",
+      "zone_lat": 19.4036,
+      "zone_lng": -99.1785,
+      "zone_address_input": "Av. Patriotismo 229, Escandón I Secc, Miguel Hidalgo, 11800 CDMX",
+      "zone_address_resolved": "7-8",
+      "restaurant_brand": "McDonald's",
+      "brand_id": null,
+      "store_id": "7e119635-cc69-4fb8-8231-b6e56dfc2430",
+      "store_name": "McDonald's Plaza Patriotismo ",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "17 min",
+      "eta_minutes": 17,
+      "is_open": true,
+      "rating": 4.5,
+      "discount_count": 2,
+      "products_total": 77,
+      "products_matched": {
+        "Big Mac": [
+          {
+            "section": "",
+            "name": "Big Mac Tocino + favoritos",
+            "description": "Big Mac Tocino + favoritos",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Home Office con Big Mac",
+            "description": "Home Office con Big Mac",
+            "price": 99.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac Tocino",
+            "description": "McTrío mediano Big Mac Tocino",
+            "price": 179.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino",
+            "description": "Big Mac Tocino",
+            "price": 155.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac",
+            "description": "McTrío mediano Big Mac",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac",
+            "description": "Big Mac",
+            "price": 135.0,
+            "currency": "MXN"
+          }
+        ],
+        "McNuggets": [
+          {
+            "section": "",
+            "name": "McNuggets y Papas para Todos",
+            "description": "McNuggets y Papas para Todos",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz  McNuggets Plus",
+            "description": "Cajita Feliz  McNuggets Plus",
+            "price": 229.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrio mediano McNuggets 10 pzas",
+            "description": "McTrio mediano McNuggets 10 pzas",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano McNuggets 20 pzas",
+            "description": "McTrío mediano McNuggets 20 pzas",
+            "price": 219.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "description": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "price": 145.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 4 pzas",
+            "description": "McNuggets de Pollo 4 pzas",
+            "price": 59.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 10 pzas",
+            "description": "McNuggets de Pollo 10 pzas",
+            "price": 145.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 6 pzas",
+            "description": "McNuggets de Pollo 6 pzas",
+            "price": 99.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 20 pzas",
+            "description": "McNuggets de Pollo 20 pzas",
+            "price": 199.0,
+            "currency": "MXN"
+          }
+        ],
+        "Cuarto": [
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra con Queso",
+            "description": "McTrío mediano Cuarto de Libra con Queso",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "description": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cuarto De Libra Con Queso",
+            "description": "Cuarto De Libra Con Queso",
+            "price": 145.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:48:16.024804",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Escandón",
+      "zone_category": "medio",
+      "zone_lat": 19.4036,
+      "zone_lng": -99.1785,
+      "zone_address_input": "Av. Patriotismo 229, Escandón I Secc, Miguel Hidalgo, 11800 CDMX",
+      "zone_address_resolved": "7-8",
+      "restaurant_brand": "Domino's Pizza",
+      "brand_id": null,
+      "store_id": "ba66e2a1-e566-43a1-a869-999a3c0030d3",
+      "store_name": "Domino's Condesa",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "15 min",
+      "eta_minutes": 15,
+      "is_open": true,
+      "rating": 4.7,
+      "discount_count": 7,
+      "products_total": 57,
+      "products_matched": {
+        "Mediana": [
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Canela  Gratis",
+            "description": "Mediana 1 ing + Canela  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Papotas Gratis",
+            "description": "Mediana 1 ing + Papotas Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Cajeta  Gratis",
+            "description": "Mediana 1 ing + Cajeta  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "description": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Mediana",
+            "description": "Pizza Mediana",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes",
+            "description": "Pizza mediana Croissant 1-4 ingredientes",
+            "price": 239.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "description": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "price": 299.0,
+            "currency": "MXN"
+          }
+        ],
+        "Grande": [
+          {
+            "section": "",
+            "name": "2 Pizzas Grandes",
+            "description": "2 Pizzas Grandes",
+            "price": 319.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Grande",
+            "description": "Pizza Grande",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Grande 1 ing + Papotas",
+            "description": "Grande 1 ing + Papotas",
+            "price": 318.0,
+            "currency": "MXN"
+          }
+        ],
+        "Combo": [
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Mi Domino’s Abril",
+            "description": "Combo Mi Domino’s Abril",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Adicionales Abril",
+            "description": "Combo Adicionales Abril",
+            "price": 159.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:48:16.024923",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Anzures",
+      "zone_category": "medio",
+      "zone_lat": 19.4301,
+      "zone_lng": -99.1762,
+      "zone_address_input": "Calle Leibnitz 40, Anzures, Miguel Hidalgo, 11590 CDMX",
+      "zone_address_resolved": "Leibnitz 40",
+      "restaurant_brand": "McDonald's",
+      "brand_id": null,
+      "store_id": "a08108e0-594d-4c9e-a2a0-e3a90be971b1",
+      "store_name": "McDonald's (Plaza Galerías)",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "13 min",
+      "eta_minutes": 13,
+      "is_open": true,
+      "rating": 4.5,
+      "discount_count": 2,
+      "products_total": 79,
+      "products_matched": {
+        "Big Mac": [
+          {
+            "section": "",
+            "name": "Home Office con Big Mac",
+            "description": "Home Office con Big Mac",
+            "price": 99.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino + favoritos",
+            "description": "Big Mac Tocino + favoritos",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío Big Mac mediano+McFlurry Oreo",
+            "description": "McTrío Big Mac mediano+McFlurry Oreo",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac Tocino",
+            "description": "McTrío mediano Big Mac Tocino",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino",
+            "description": "Big Mac Tocino",
+            "price": 145.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac",
+            "description": "McTrío mediano Big Mac",
+            "price": 149.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac",
+            "description": "Big Mac",
+            "price": 125.0,
+            "currency": "MXN"
+          }
+        ],
+        "McNuggets": [
+          {
+            "section": "",
+            "name": "Cajita Feliz  McNuggets Plus",
+            "description": "Cajita Feliz  McNuggets Plus",
+            "price": 229.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets y Papas para Todos",
+            "description": "McNuggets y Papas para Todos",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrio mediano McNuggets 10 pzas",
+            "description": "McTrio mediano McNuggets 10 pzas",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano McNuggets 20 pzas",
+            "description": "McTrío mediano McNuggets 20 pzas",
+            "price": 219.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "description": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "price": 149.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 4 pzas",
+            "description": "McNuggets de Pollo 4 pzas",
+            "price": 59.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 10 pzas",
+            "description": "McNuggets de Pollo 10 pzas",
+            "price": 135.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 6 pzas",
+            "description": "McNuggets de Pollo 6 pzas",
+            "price": 89.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 20 pzas",
+            "description": "McNuggets de Pollo 20 pzas",
+            "price": 199.0,
+            "currency": "MXN"
+          }
+        ],
+        "Cuarto": [
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra con Queso",
+            "description": "McTrío mediano Cuarto de Libra con Queso",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "description": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cuarto De Libra Con Queso",
+            "description": "Cuarto De Libra Con Queso",
+            "price": 135.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:48:43.522566",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Anzures",
+      "zone_category": "medio",
+      "zone_lat": 19.4301,
+      "zone_lng": -99.1762,
+      "zone_address_input": "Calle Leibnitz 40, Anzures, Miguel Hidalgo, 11590 CDMX",
+      "zone_address_resolved": "Leibnitz 40",
+      "restaurant_brand": "Domino's Pizza",
+      "brand_id": null,
+      "store_id": "7652c19d-ebc2-4817-9a13-e0d0d67e5434",
+      "store_name": "Domino's Anzures",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "20 min",
+      "eta_minutes": 20,
+      "is_open": true,
+      "rating": 4.6,
+      "discount_count": 7,
+      "products_total": 57,
+      "products_matched": {
+        "Mediana": [
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Papotas Gratis",
+            "description": "Mediana 1 ing + Papotas Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Canela  Gratis",
+            "description": "Mediana 1 ing + Canela  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "description": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Mediana",
+            "description": "Pizza Mediana",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Cajeta  Gratis",
+            "description": "Mediana 1 ing + Cajeta  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes",
+            "description": "Pizza mediana Croissant 1-4 ingredientes",
+            "price": 239.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "description": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "price": 299.0,
+            "currency": "MXN"
+          }
+        ],
+        "Grande": [
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Grande",
+            "description": "Pizza Grande",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Grande 1 ing + Papotas",
+            "description": "Grande 1 ing + Papotas",
+            "price": 318.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "2 Pizzas Grandes",
+            "description": "2 Pizzas Grandes",
+            "price": 319.0,
+            "currency": "MXN"
+          }
+        ],
+        "Combo": [
+          {
+            "section": "",
+            "name": "Combo Adicionales Abril",
+            "description": "Combo Adicionales Abril",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Mi Domino’s Abril",
+            "description": "Combo Mi Domino’s Abril",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:48:43.522758",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Portales",
+      "zone_category": "medio",
+      "zone_lat": 19.3685,
+      "zone_lng": -99.1459,
+      "zone_address_input": "Calz. de Tlalpan 855, Portales Norte, Benito Juárez, 03300 CDMX",
+      "zone_address_resolved": "Calz. de Tlalpan 855",
+      "restaurant_brand": "McDonald's",
+      "brand_id": null,
+      "store_id": "cf6920df-4fca-41fb-980b-6c3adff1e4e1",
+      "store_name": "McDonald's Municipio Libre ",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "17 min",
+      "eta_minutes": 17,
+      "is_open": true,
+      "rating": 4.5,
+      "discount_count": 2,
+      "products_total": 85,
+      "products_matched": {
+        "Big Mac": [
+          {
+            "section": "",
+            "name": "Big Mac Tocino + favoritos",
+            "description": "Big Mac Tocino + favoritos",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío Big Mac mediano+McFlurry Oreo",
+            "description": "McTrío Big Mac mediano+McFlurry Oreo",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Home Office con Big Mac",
+            "description": "Home Office con Big Mac",
+            "price": 99.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac Tocino",
+            "description": "McTrío mediano Big Mac Tocino",
+            "price": 179.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino",
+            "description": "Big Mac Tocino",
+            "price": 155.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac",
+            "description": "McTrío mediano Big Mac",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac",
+            "description": "Big Mac",
+            "price": 135.0,
+            "currency": "MXN"
+          }
+        ],
+        "McNuggets": [
+          {
+            "section": "",
+            "name": "McNuggets y Papas para Todos",
+            "description": "McNuggets y Papas para Todos",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz  McNuggets Plus",
+            "description": "Cajita Feliz  McNuggets Plus",
+            "price": 229.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrio mediano McNuggets 10 pzas",
+            "description": "McTrio mediano McNuggets 10 pzas",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano McNuggets 20 pzas",
+            "description": "McTrío mediano McNuggets 20 pzas",
+            "price": 219.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "description": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "price": 149.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 4 pzas",
+            "description": "McNuggets de Pollo 4 pzas",
+            "price": 59.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 10 pzas",
+            "description": "McNuggets de Pollo 10 pzas",
+            "price": 145.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 6 pzas",
+            "description": "McNuggets de Pollo 6 pzas",
+            "price": 99.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 20 pzas",
+            "description": "McNuggets de Pollo 20 pzas",
+            "price": 199.0,
+            "currency": "MXN"
+          }
+        ],
+        "Cuarto": [
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra con Queso",
+            "description": "McTrío mediano Cuarto de Libra con Queso",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "description": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cuarto De Libra Con Queso",
+            "description": "Cuarto De Libra Con Queso",
+            "price": 145.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:49:11.047138",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Portales",
+      "zone_category": "medio",
+      "zone_lat": 19.3685,
+      "zone_lng": -99.1459,
+      "zone_address_input": "Calz. de Tlalpan 855, Portales Norte, Benito Juárez, 03300 CDMX",
+      "zone_address_resolved": "Calz. de Tlalpan 855",
+      "restaurant_brand": "Domino's Pizza",
+      "brand_id": null,
+      "store_id": "b7e7ae45-0e80-4252-a8f9-81aed3c03b1d",
+      "store_name": "Domino's Portales CDMX",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "13 min",
+      "eta_minutes": 13,
+      "is_open": true,
+      "rating": 4.7,
+      "discount_count": 7,
+      "products_total": 57,
+      "products_matched": {
+        "Mediana": [
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Canela  Gratis",
+            "description": "Mediana 1 ing + Canela  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Mediana",
+            "description": "Pizza Mediana",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes",
+            "description": "Pizza mediana Croissant 1-4 ingredientes",
+            "price": 239.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "description": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Cajeta  Gratis",
+            "description": "Mediana 1 ing + Cajeta  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Papotas Gratis",
+            "description": "Mediana 1 ing + Papotas Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "description": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "price": 299.0,
+            "currency": "MXN"
+          }
+        ],
+        "Grande": [
+          {
+            "section": "",
+            "name": "Pizza Grande",
+            "description": "Pizza Grande",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "2 Pizzas Grandes",
+            "description": "2 Pizzas Grandes",
+            "price": 319.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Grande 1 ing + Papotas",
+            "description": "Grande 1 ing + Papotas",
+            "price": 318.0,
+            "currency": "MXN"
+          }
+        ],
+        "Combo": [
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Mi Domino’s Abril",
+            "description": "Combo Mi Domino’s Abril",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Adicionales Abril",
+            "description": "Combo Adicionales Abril",
+            "price": 159.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:49:11.047252",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Doctores",
+      "zone_category": "medio",
+      "zone_lat": 19.4217,
+      "zone_lng": -99.1455,
+      "zone_address_input": "Dr. Río de la Loza 132, Doctores, Cuauhtémoc, 06720 CDMX",
+      "zone_address_resolved": "Av. Dr. Río de la Loza 132",
+      "restaurant_brand": "McDonald's",
+      "brand_id": null,
+      "store_id": "fe00d38a-3022-4ab3-9a2f-d7c12847581f",
+      "store_name": "McDonald's Cuauhtémoc",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "10 min",
+      "eta_minutes": 10,
+      "is_open": true,
+      "rating": 4.5,
+      "discount_count": 2,
+      "products_total": 85,
+      "products_matched": {
+        "Big Mac": [
+          {
+            "section": "",
+            "name": "McTrío Big Mac mediano+McFlurry Oreo",
+            "description": "McTrío Big Mac mediano+McFlurry Oreo",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino + favoritos",
+            "description": "Big Mac Tocino + favoritos",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Home Office con Big Mac",
+            "description": "Home Office con Big Mac",
+            "price": 99.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac Tocino",
+            "description": "McTrío mediano Big Mac Tocino",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino",
+            "description": "Big Mac Tocino",
+            "price": 145.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac",
+            "description": "McTrío mediano Big Mac",
+            "price": 149.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac",
+            "description": "Big Mac",
+            "price": 125.0,
+            "currency": "MXN"
+          }
+        ],
+        "McNuggets": [
+          {
+            "section": "",
+            "name": "Cajita Feliz  McNuggets Plus",
+            "description": "Cajita Feliz  McNuggets Plus",
+            "price": 229.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets y Papas para Todos",
+            "description": "McNuggets y Papas para Todos",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrio mediano McNuggets 10 pzas",
+            "description": "McTrio mediano McNuggets 10 pzas",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano McNuggets 20 pzas",
+            "description": "McTrío mediano McNuggets 20 pzas",
+            "price": 219.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "description": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "price": 149.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 4 pzas",
+            "description": "McNuggets de Pollo 4 pzas",
+            "price": 59.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 10 pzas",
+            "description": "McNuggets de Pollo 10 pzas",
+            "price": 135.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 6 pzas",
+            "description": "McNuggets de Pollo 6 pzas",
+            "price": 89.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 20 pzas",
+            "description": "McNuggets de Pollo 20 pzas",
+            "price": 199.0,
+            "currency": "MXN"
+          }
+        ],
+        "Cuarto": [
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra con Queso",
+            "description": "McTrío mediano Cuarto de Libra con Queso",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "description": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cuarto De Libra Con Queso",
+            "description": "Cuarto De Libra Con Queso",
+            "price": 135.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:49:39.038582",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Doctores",
+      "zone_category": "medio",
+      "zone_lat": 19.4217,
+      "zone_lng": -99.1455,
+      "zone_address_input": "Dr. Río de la Loza 132, Doctores, Cuauhtémoc, 06720 CDMX",
+      "zone_address_resolved": "Av. Dr. Río de la Loza 132",
+      "restaurant_brand": "Domino's Pizza",
+      "brand_id": null,
+      "store_id": "e8f4e4e2-0197-4b82-93b9-7535e39cc8c4",
+      "store_name": "Domino's Plaza Cuauhtémoc",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "10 min",
+      "eta_minutes": 10,
+      "is_open": true,
+      "rating": 4.5,
+      "discount_count": 7,
+      "products_total": 57,
+      "products_matched": {
+        "Mediana": [
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Canela  Gratis",
+            "description": "Mediana 1 ing + Canela  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Mediana",
+            "description": "Pizza Mediana",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "description": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes",
+            "description": "Pizza mediana Croissant 1-4 ingredientes",
+            "price": 239.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Cajeta  Gratis",
+            "description": "Mediana 1 ing + Cajeta  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "description": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Papotas Gratis",
+            "description": "Mediana 1 ing + Papotas Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          }
+        ],
+        "Grande": [
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "2 Pizzas Grandes",
+            "description": "2 Pizzas Grandes",
+            "price": 319.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Grande",
+            "description": "Pizza Grande",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Grande 1 ing + Papotas",
+            "description": "Grande 1 ing + Papotas",
+            "price": 308.0,
+            "currency": "MXN"
+          }
+        ],
+        "Combo": [
+          {
+            "section": "",
+            "name": "Combo Mi Domino’s Abril",
+            "description": "Combo Mi Domino’s Abril",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Adicionales Abril",
+            "description": "Combo Adicionales Abril",
+            "price": 159.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:49:39.038680",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "San Rafael",
+      "zone_category": "medio",
+      "zone_lat": 19.4375,
+      "zone_lng": -99.1659,
+      "zone_address_input": "Av. Insurgentes Centro 56, San Rafael, Cuauhtémoc, 06470 CDMX",
+      "zone_address_resolved": "Av. Insurgentes Centro 56",
+      "restaurant_brand": "McDonald's",
+      "brand_id": null,
+      "store_id": "c83ffaf4-5b71-4d31-968c-a9b8ac9d4112",
+      "store_name": "McDonald's (Reforma)",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "10 min",
+      "eta_minutes": 10,
+      "is_open": true,
+      "rating": 4.5,
+      "discount_count": 2,
+      "products_total": 84,
+      "products_matched": {
+        "Big Mac": [
+          {
+            "section": "",
+            "name": "Home Office con Big Mac",
+            "description": "Home Office con Big Mac",
+            "price": 99.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino + favoritos",
+            "description": "Big Mac Tocino + favoritos",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío Big Mac mediano+McFlurry Oreo",
+            "description": "McTrío Big Mac mediano+McFlurry Oreo",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac Tocino",
+            "description": "McTrío mediano Big Mac Tocino",
+            "price": 179.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino",
+            "description": "Big Mac Tocino",
+            "price": 155.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac",
+            "description": "McTrío mediano Big Mac",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac",
+            "description": "Big Mac",
+            "price": 135.0,
+            "currency": "MXN"
+          }
+        ],
+        "McNuggets": [
+          {
+            "section": "",
+            "name": "McNuggets y Papas para Todos",
+            "description": "McNuggets y Papas para Todos",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz  McNuggets Plus",
+            "description": "Cajita Feliz  McNuggets Plus",
+            "price": 229.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrio mediano McNuggets 10 pzas",
+            "description": "McTrio mediano McNuggets 10 pzas",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano McNuggets 20 pzas",
+            "description": "McTrío mediano McNuggets 20 pzas",
+            "price": 219.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "description": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "price": 149.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 4 pzas",
+            "description": "McNuggets de Pollo 4 pzas",
+            "price": 59.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 10 pzas",
+            "description": "McNuggets de Pollo 10 pzas",
+            "price": 145.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 6 pzas",
+            "description": "McNuggets de Pollo 6 pzas",
+            "price": 99.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 20 pzas",
+            "description": "McNuggets de Pollo 20 pzas",
+            "price": 199.0,
+            "currency": "MXN"
+          }
+        ],
+        "Cuarto": [
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra con Queso",
+            "description": "McTrío mediano Cuarto de Libra con Queso",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "description": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cuarto De Libra Con Queso",
+            "description": "Cuarto De Libra Con Queso",
+            "price": 145.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:50:07.679431",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "San Rafael",
+      "zone_category": "medio",
+      "zone_lat": 19.4375,
+      "zone_lng": -99.1659,
+      "zone_address_input": "Av. Insurgentes Centro 56, San Rafael, Cuauhtémoc, 06470 CDMX",
+      "zone_address_resolved": "Av. Insurgentes Centro 56",
+      "restaurant_brand": "Domino's Pizza",
+      "brand_id": null,
+      "store_id": "e469bb55-ed7a-4100-bc4f-053a290f28bb",
+      "store_name": "Domino's Edison",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "10 min",
+      "eta_minutes": 10,
+      "is_open": true,
+      "rating": 4.6,
+      "discount_count": 7,
+      "products_total": 57,
+      "products_matched": {
+        "Mediana": [
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "description": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes",
+            "description": "Pizza mediana Croissant 1-4 ingredientes",
+            "price": 239.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Canela  Gratis",
+            "description": "Mediana 1 ing + Canela  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Mediana",
+            "description": "Pizza Mediana",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Cajeta  Gratis",
+            "description": "Mediana 1 ing + Cajeta  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Papotas Gratis",
+            "description": "Mediana 1 ing + Papotas Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "description": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "price": 279.0,
+            "currency": "MXN"
+          }
+        ],
+        "Grande": [
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "2 Pizzas Grandes",
+            "description": "2 Pizzas Grandes",
+            "price": 319.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Grande 1 ing + Papotas",
+            "description": "Grande 1 ing + Papotas",
+            "price": 293.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Grande",
+            "description": "Pizza Grande",
+            "price": 199.0,
+            "currency": "MXN"
+          }
+        ],
+        "Combo": [
+          {
+            "section": "",
+            "name": "Combo Mi Domino’s Abril",
+            "description": "Combo Mi Domino’s Abril",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Adicionales Abril",
+            "description": "Combo Adicionales Abril",
+            "price": 159.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:50:07.679544",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Tacubaya",
+      "zone_category": "medio",
+      "zone_lat": 19.4027,
+      "zone_lng": -99.1878,
+      "zone_address_input": "Av. Jalisco 50, Tacubaya, Miguel Hidalgo, 11870 CDMX",
+      "zone_address_resolved": "Avenida Jalisco",
+      "restaurant_brand": "McDonald's",
+      "brand_id": null,
+      "store_id": "7e119635-cc69-4fb8-8231-b6e56dfc2430",
+      "store_name": "McDonald's Plaza Patriotismo ",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "21 min",
+      "eta_minutes": 21,
+      "is_open": true,
+      "rating": 4.5,
+      "discount_count": 2,
+      "products_total": 77,
+      "products_matched": {
+        "Big Mac": [
+          {
+            "section": "",
+            "name": "Big Mac Tocino + favoritos",
+            "description": "Big Mac Tocino + favoritos",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Home Office con Big Mac",
+            "description": "Home Office con Big Mac",
+            "price": 99.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac Tocino",
+            "description": "McTrío mediano Big Mac Tocino",
+            "price": 179.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino",
+            "description": "Big Mac Tocino",
+            "price": 155.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac",
+            "description": "McTrío mediano Big Mac",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac",
+            "description": "Big Mac",
+            "price": 135.0,
+            "currency": "MXN"
+          }
+        ],
+        "McNuggets": [
+          {
+            "section": "",
+            "name": "McNuggets y Papas para Todos",
+            "description": "McNuggets y Papas para Todos",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz  McNuggets Plus",
+            "description": "Cajita Feliz  McNuggets Plus",
+            "price": 229.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrio mediano McNuggets 10 pzas",
+            "description": "McTrio mediano McNuggets 10 pzas",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano McNuggets 20 pzas",
+            "description": "McTrío mediano McNuggets 20 pzas",
+            "price": 219.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "description": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "price": 145.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 4 pzas",
+            "description": "McNuggets de Pollo 4 pzas",
+            "price": 59.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 10 pzas",
+            "description": "McNuggets de Pollo 10 pzas",
+            "price": 145.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 6 pzas",
+            "description": "McNuggets de Pollo 6 pzas",
+            "price": 99.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 20 pzas",
+            "description": "McNuggets de Pollo 20 pzas",
+            "price": 199.0,
+            "currency": "MXN"
+          }
+        ],
+        "Cuarto": [
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra con Queso",
+            "description": "McTrío mediano Cuarto de Libra con Queso",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "description": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cuarto De Libra Con Queso",
+            "description": "Cuarto De Libra Con Queso",
+            "price": 145.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:50:35.539485",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Tacubaya",
+      "zone_category": "medio",
+      "zone_lat": 19.4027,
+      "zone_lng": -99.1878,
+      "zone_address_input": "Av. Jalisco 50, Tacubaya, Miguel Hidalgo, 11870 CDMX",
+      "zone_address_resolved": "Avenida Jalisco",
+      "restaurant_brand": "Domino's Pizza",
+      "brand_id": null,
+      "store_id": "ba66e2a1-e566-43a1-a869-999a3c0030d3",
+      "store_name": "Domino's Condesa",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "21 min",
+      "eta_minutes": 21,
+      "is_open": true,
+      "rating": 4.7,
+      "discount_count": 7,
+      "products_total": 57,
+      "products_matched": {
+        "Mediana": [
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Canela  Gratis",
+            "description": "Mediana 1 ing + Canela  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Papotas Gratis",
+            "description": "Mediana 1 ing + Papotas Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Cajeta  Gratis",
+            "description": "Mediana 1 ing + Cajeta  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "description": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Mediana",
+            "description": "Pizza Mediana",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes",
+            "description": "Pizza mediana Croissant 1-4 ingredientes",
+            "price": 239.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "description": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "price": 299.0,
+            "currency": "MXN"
+          }
+        ],
+        "Grande": [
+          {
+            "section": "",
+            "name": "2 Pizzas Grandes",
+            "description": "2 Pizzas Grandes",
+            "price": 319.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Grande",
+            "description": "Pizza Grande",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Grande 1 ing + Papotas",
+            "description": "Grande 1 ing + Papotas",
+            "price": 318.0,
+            "currency": "MXN"
+          }
+        ],
+        "Combo": [
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Mi Domino’s Abril",
+            "description": "Combo Mi Domino’s Abril",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Adicionales Abril",
+            "description": "Combo Adicionales Abril",
+            "price": 159.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:50:35.539641",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Mixcoac",
+      "zone_category": "medio",
+      "zone_lat": 19.3762,
+      "zone_lng": -99.1872,
+      "zone_address_input": "Av. Revolución 1141, Mixcoac, Benito Juárez, 03910 CDMX",
+      "zone_address_resolved": "Av. Revolución 1141",
+      "restaurant_brand": "McDonald's",
+      "brand_id": null,
+      "store_id": "da030c47-d651-4ece-8dc9-51ddde48098a",
+      "store_name": "McDonald's Torre Manacar",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "11 min",
+      "eta_minutes": 11,
+      "is_open": true,
+      "rating": 4.6,
+      "discount_count": 2,
+      "products_total": 85,
+      "products_matched": {
+        "Big Mac": [
+          {
+            "section": "",
+            "name": "McTrío Big Mac mediano+McFlurry Oreo",
+            "description": "McTrío Big Mac mediano+McFlurry Oreo",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino + favoritos",
+            "description": "Big Mac Tocino + favoritos",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Home Office con Big Mac",
+            "description": "Home Office con Big Mac",
+            "price": 99.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac Tocino",
+            "description": "McTrío mediano Big Mac Tocino",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino",
+            "description": "Big Mac Tocino",
+            "price": 145.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac",
+            "description": "McTrío mediano Big Mac",
+            "price": 149.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac",
+            "description": "Big Mac",
+            "price": 125.0,
+            "currency": "MXN"
+          }
+        ],
+        "McNuggets": [
+          {
+            "section": "",
+            "name": "McNuggets y Papas para Todos",
+            "description": "McNuggets y Papas para Todos",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz  McNuggets Plus",
+            "description": "Cajita Feliz  McNuggets Plus",
+            "price": 229.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrio mediano McNuggets 10 pzas",
+            "description": "McTrio mediano McNuggets 10 pzas",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano McNuggets 20 pzas",
+            "description": "McTrío mediano McNuggets 20 pzas",
+            "price": 219.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "description": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "price": 145.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 4 pzas",
+            "description": "McNuggets de Pollo 4 pzas",
+            "price": 59.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 10 pzas",
+            "description": "McNuggets de Pollo 10 pzas",
+            "price": 135.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 6 pzas",
+            "description": "McNuggets de Pollo 6 pzas",
+            "price": 89.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 20 pzas",
+            "description": "McNuggets de Pollo 20 pzas",
+            "price": 199.0,
+            "currency": "MXN"
+          }
+        ],
+        "Cuarto": [
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra con Queso",
+            "description": "McTrío mediano Cuarto de Libra con Queso",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "description": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cuarto De Libra Con Queso",
+            "description": "Cuarto De Libra Con Queso",
+            "price": 135.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:51:03.589019",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Mixcoac",
+      "zone_category": "medio",
+      "zone_lat": 19.3762,
+      "zone_lng": -99.1872,
+      "zone_address_input": "Av. Revolución 1141, Mixcoac, Benito Juárez, 03910 CDMX",
+      "zone_address_resolved": "Av. Revolución 1141",
+      "restaurant_brand": "Domino's Pizza",
+      "brand_id": null,
+      "store_id": "921bf193-f9c4-4136-b2f8-1529f03774cf",
+      "store_name": "Domino's (Guadalupe Inn)",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "14 min",
+      "eta_minutes": 14,
+      "is_open": true,
+      "rating": 4.7,
+      "discount_count": 7,
+      "products_total": 57,
+      "products_matched": {
+        "Mediana": [
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Cajeta  Gratis",
+            "description": "Mediana 1 ing + Cajeta  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes",
+            "description": "Pizza mediana Croissant 1-4 ingredientes",
+            "price": 239.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Papotas Gratis",
+            "description": "Mediana 1 ing + Papotas Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "description": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Canela  Gratis",
+            "description": "Mediana 1 ing + Canela  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Mediana",
+            "description": "Pizza Mediana",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "description": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "price": 299.0,
+            "currency": "MXN"
+          }
+        ],
+        "Grande": [
+          {
+            "section": "",
+            "name": "2 Pizzas Grandes",
+            "description": "2 Pizzas Grandes",
+            "price": 319.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Grande",
+            "description": "Pizza Grande",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Grande 1 ing + Papotas",
+            "description": "Grande 1 ing + Papotas",
+            "price": 318.0,
+            "currency": "MXN"
+          }
+        ],
+        "Combo": [
+          {
+            "section": "",
+            "name": "Combo Mi Domino’s Abril",
+            "description": "Combo Mi Domino’s Abril",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Adicionales Abril",
+            "description": "Combo Adicionales Abril",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:51:03.589197",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Iztapalapa Centro",
+      "zone_category": "periferico",
+      "zone_lat": 19.3579,
+      "zone_lng": -99.0676,
+      "zone_address_input": "Aldama 63, Barrio San Lucas, Iztapalapa, 09000 CDMX",
+      "zone_address_resolved": "Dirección General de Administración, Aldama 63 Barrio San Lucas",
+      "restaurant_brand": "McDonald's",
+      "brand_id": null,
+      "store_id": "090c010a-b345-4c2b-b27e-d35a79e5d9c7",
+      "store_name": "McDonald's Ermita",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "15 min",
+      "eta_minutes": 15,
+      "is_open": true,
+      "rating": 4.5,
+      "discount_count": 2,
+      "products_total": 85,
+      "products_matched": {
+        "Big Mac": [
+          {
+            "section": "",
+            "name": "Home Office con Big Mac",
+            "description": "Home Office con Big Mac",
+            "price": 99.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío Big Mac mediano+McFlurry Oreo",
+            "description": "McTrío Big Mac mediano+McFlurry Oreo",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino + favoritos",
+            "description": "Big Mac Tocino + favoritos",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac Tocino",
+            "description": "McTrío mediano Big Mac Tocino",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino",
+            "description": "Big Mac Tocino",
+            "price": 145.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac",
+            "description": "McTrío mediano Big Mac",
+            "price": 149.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac",
+            "description": "Big Mac",
+            "price": 125.0,
+            "currency": "MXN"
+          }
+        ],
+        "McNuggets": [
+          {
+            "section": "",
+            "name": "McNuggets y Papas para Todos",
+            "description": "McNuggets y Papas para Todos",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz  McNuggets Plus",
+            "description": "Cajita Feliz  McNuggets Plus",
+            "price": 229.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrio mediano McNuggets 10 pzas",
+            "description": "McTrio mediano McNuggets 10 pzas",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano McNuggets 20 pzas",
+            "description": "McTrío mediano McNuggets 20 pzas",
+            "price": 219.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "description": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "price": 149.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 4 pzas",
+            "description": "McNuggets de Pollo 4 pzas",
+            "price": 59.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 10 pzas",
+            "description": "McNuggets de Pollo 10 pzas",
+            "price": 135.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 6 pzas",
+            "description": "McNuggets de Pollo 6 pzas",
+            "price": 89.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 20 pzas",
+            "description": "McNuggets de Pollo 20 pzas",
+            "price": 199.0,
+            "currency": "MXN"
+          }
+        ],
+        "Cuarto": [
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra con Queso",
+            "description": "McTrío mediano Cuarto de Libra con Queso",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "description": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cuarto De Libra Con Queso",
+            "description": "Cuarto De Libra Con Queso",
+            "price": 135.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:51:30.828657",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Iztapalapa Centro",
+      "zone_category": "periferico",
+      "zone_lat": 19.3579,
+      "zone_lng": -99.0676,
+      "zone_address_input": "Aldama 63, Barrio San Lucas, Iztapalapa, 09000 CDMX",
+      "zone_address_resolved": "Dirección General de Administración, Aldama 63 Barrio San Lucas",
+      "restaurant_brand": "Domino's Pizza",
+      "brand_id": null,
+      "store_id": "67d02b47-619b-41eb-94a6-1eb2d070f9d0",
+      "store_name": "Domino's Iztapalapa",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "10 min",
+      "eta_minutes": 10,
+      "is_open": true,
+      "rating": 4.6,
+      "discount_count": 7,
+      "products_total": 57,
+      "products_matched": {
+        "Mediana": [
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Papotas Gratis",
+            "description": "Mediana 1 ing + Papotas Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Cajeta  Gratis",
+            "description": "Mediana 1 ing + Cajeta  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "description": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Mediana",
+            "description": "Pizza Mediana",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes",
+            "description": "Pizza mediana Croissant 1-4 ingredientes",
+            "price": 239.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "description": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "price": 279.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Canela  Gratis",
+            "description": "Mediana 1 ing + Canela  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          }
+        ],
+        "Grande": [
+          {
+            "section": "",
+            "name": "Pizza Grande",
+            "description": "Pizza Grande",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "2 Pizzas Grandes",
+            "description": "2 Pizzas Grandes",
+            "price": 319.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Grande 1 ing + Papotas",
+            "description": "Grande 1 ing + Papotas",
+            "price": 293.0,
+            "currency": "MXN"
+          }
+        ],
+        "Combo": [
+          {
+            "section": "",
+            "name": "Combo Adicionales Abril",
+            "description": "Combo Adicionales Abril",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Mi Domino’s Abril",
+            "description": "Combo Mi Domino’s Abril",
+            "price": 199.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:51:30.828806",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Tláhuac",
+      "zone_category": "periferico",
+      "zone_lat": 19.285,
+      "zone_lng": -99.0033,
+      "zone_address_input": "Av. Tláhuac 6105, San Lorenzo Tezonco, Tláhuac, 09900 CDMX",
+      "zone_address_resolved": "Avenida Tlahuac",
+      "restaurant_brand": "McDonald's",
+      "brand_id": null,
+      "store_id": "9c4d0d51-8fcf-433c-9f9b-f060c33f444c",
+      "store_name": "McDonald's Antenas ll",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "17 min",
+      "eta_minutes": 17,
+      "is_open": true,
+      "rating": 4.4,
+      "discount_count": 2,
+      "products_total": 84,
+      "products_matched": {
+        "Big Mac": [
+          {
+            "section": "",
+            "name": "Home Office con Big Mac",
+            "description": "Home Office con Big Mac",
+            "price": 99.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío Big Mac mediano+McFlurry Oreo",
+            "description": "McTrío Big Mac mediano+McFlurry Oreo",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino + favoritos",
+            "description": "Big Mac Tocino + favoritos",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac Tocino",
+            "description": "McTrío mediano Big Mac Tocino",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino",
+            "description": "Big Mac Tocino",
+            "price": 145.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac",
+            "description": "McTrío mediano Big Mac",
+            "price": 149.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac",
+            "description": "Big Mac",
+            "price": 125.0,
+            "currency": "MXN"
+          }
+        ],
+        "McNuggets": [
+          {
+            "section": "",
+            "name": "Cajita Feliz  McNuggets Plus",
+            "description": "Cajita Feliz  McNuggets Plus",
+            "price": 229.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets y Papas para Todos",
+            "description": "McNuggets y Papas para Todos",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrio mediano McNuggets 10 pzas",
+            "description": "McTrio mediano McNuggets 10 pzas",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano McNuggets 20 pzas",
+            "description": "McTrío mediano McNuggets 20 pzas",
+            "price": 219.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "description": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "price": 149.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 4 pzas",
+            "description": "McNuggets de Pollo 4 pzas",
+            "price": 59.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 10 pzas",
+            "description": "McNuggets de Pollo 10 pzas",
+            "price": 135.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 6 pzas",
+            "description": "McNuggets de Pollo 6 pzas",
+            "price": 89.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 20 pzas",
+            "description": "McNuggets de Pollo 20 pzas",
+            "price": 199.0,
+            "currency": "MXN"
+          }
+        ],
+        "Cuarto": [
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra con Queso",
+            "description": "McTrío mediano Cuarto de Libra con Queso",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "description": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cuarto De Libra Con Queso",
+            "description": "Cuarto De Libra Con Queso",
+            "price": 135.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:51:57.232377",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Tláhuac",
+      "zone_category": "periferico",
+      "zone_lat": 19.285,
+      "zone_lng": -99.0033,
+      "zone_address_input": "Av. Tláhuac 6105, San Lorenzo Tezonco, Tláhuac, 09900 CDMX",
+      "zone_address_resolved": "Avenida Tlahuac",
+      "restaurant_brand": "Domino's Pizza",
+      "brand_id": null,
+      "store_id": "e7b3e03e-727c-58e7-8efe-7c4265c75998",
+      "store_name": "Domino's (Las Antenas)",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "19 min",
+      "eta_minutes": 19,
+      "is_open": true,
+      "rating": 4.8,
+      "discount_count": 6,
+      "products_total": 34,
+      "products_matched": {
+        "Mediana": [
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Canela  Gratis",
+            "description": "Mediana 1 ing + Canela  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes",
+            "description": "Pizza mediana Croissant 1-4 ingredientes",
+            "price": 239.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Mediana",
+            "description": "Pizza Mediana",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Papotas Gratis",
+            "description": "Mediana 1 ing + Papotas Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Cajeta  Gratis",
+            "description": "Mediana 1 ing + Cajeta  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          }
+        ],
+        "Grande": [
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "2 Pizzas Grandes",
+            "description": "2 Pizzas Grandes",
+            "price": 319.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Grande 1 ing + Papotas",
+            "description": "Grande 1 ing + Papotas",
+            "price": 308.0,
+            "currency": "MXN"
+          }
+        ],
+        "Combo": [
+          {
+            "section": "",
+            "name": "Combo Adicionales Abril",
+            "description": "Combo Adicionales Abril",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Mi Domino’s Abril",
+            "description": "Combo Mi Domino’s Abril",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:51:57.232517",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Xochimilco",
+      "zone_category": "periferico",
+      "zone_lat": 19.257,
+      "zone_lng": -99.1053,
+      "zone_address_input": "Guadalupe I. Ramírez 4, Barrio El Rosario, Xochimilco, 16070 CDMX",
+      "zone_address_resolved": "Av. Guadalupe I. Ramírez 4",
+      "restaurant_brand": "McDonald's",
+      "brand_id": null,
+      "store_id": "d79c7e96-cbe4-49bf-9b4f-d6a5ab69bfe7",
+      "store_name": "McDonald's Coaplaza",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "34 min",
+      "eta_minutes": 34,
+      "is_open": true,
+      "rating": 4.6,
+      "discount_count": 2,
+      "products_total": 82,
+      "products_matched": {
+        "Big Mac": [
+          {
+            "section": "",
+            "name": "McTrío Big Mac mediano+McFlurry Oreo",
+            "description": "McTrío Big Mac mediano+McFlurry Oreo",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Home Office con Big Mac",
+            "description": "Home Office con Big Mac",
+            "price": 99.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino + favoritos",
+            "description": "Big Mac Tocino + favoritos",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac Tocino",
+            "description": "McTrío mediano Big Mac Tocino",
+            "price": 185.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino",
+            "description": "Big Mac Tocino",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac",
+            "description": "McTrío mediano Big Mac",
+            "price": 165.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac",
+            "description": "Big Mac",
+            "price": 139.0,
+            "currency": "MXN"
+          }
+        ],
+        "McNuggets": [
+          {
+            "section": "",
+            "name": "Cajita Feliz  McNuggets Plus",
+            "description": "Cajita Feliz  McNuggets Plus",
+            "price": 229.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets y Papas para Todos",
+            "description": "McNuggets y Papas para Todos",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrio mediano McNuggets 10 pzas",
+            "description": "McTrio mediano McNuggets 10 pzas",
+            "price": 175.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano McNuggets 20 pzas",
+            "description": "McTrío mediano McNuggets 20 pzas",
+            "price": 225.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "description": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "price": 155.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 4 pzas",
+            "description": "McNuggets de Pollo 4 pzas",
+            "price": 59.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 10 pzas",
+            "description": "McNuggets de Pollo 10 pzas",
+            "price": 149.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 6 pzas",
+            "description": "McNuggets de Pollo 6 pzas",
+            "price": 105.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 20 pzas",
+            "description": "McNuggets de Pollo 20 pzas",
+            "price": 205.0,
+            "currency": "MXN"
+          }
+        ],
+        "Cuarto": [
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra con Queso",
+            "description": "McTrío mediano Cuarto de Libra con Queso",
+            "price": 175.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "description": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "price": 205.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cuarto De Libra Con Queso",
+            "description": "Cuarto De Libra Con Queso",
+            "price": 149.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:52:25.160895",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Xochimilco",
+      "zone_category": "periferico",
+      "zone_lat": 19.257,
+      "zone_lng": -99.1053,
+      "zone_address_input": "Guadalupe I. Ramírez 4, Barrio El Rosario, Xochimilco, 16070 CDMX",
+      "zone_address_resolved": "Av. Guadalupe I. Ramírez 4",
+      "restaurant_brand": "Domino's Pizza",
+      "brand_id": null,
+      "store_id": "04f95363-f1bd-4efb-94a4-9c3906c18d9f",
+      "store_name": "Domino's Xochimilco",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "25 min",
+      "eta_minutes": 25,
+      "is_open": true,
+      "rating": 4.4,
+      "discount_count": 7,
+      "products_total": 57,
+      "products_matched": {
+        "Mediana": [
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Papotas Gratis",
+            "description": "Mediana 1 ing + Papotas Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Cajeta  Gratis",
+            "description": "Mediana 1 ing + Cajeta  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Mediana",
+            "description": "Pizza Mediana",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes",
+            "description": "Pizza mediana Croissant 1-4 ingredientes",
+            "price": 239.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Canela  Gratis",
+            "description": "Mediana 1 ing + Canela  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "description": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "price": 299.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "description": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "price": 289.0,
+            "currency": "MXN"
+          }
+        ],
+        "Grande": [
+          {
+            "section": "",
+            "name": "Pizza Grande",
+            "description": "Pizza Grande",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "2 Pizzas Grandes",
+            "description": "2 Pizzas Grandes",
+            "price": 319.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Grande 1 ing + Papotas",
+            "description": "Grande 1 ing + Papotas",
+            "price": 318.0,
+            "currency": "MXN"
+          }
+        ],
+        "Combo": [
+          {
+            "section": "",
+            "name": "Combo Adicionales Abril",
+            "description": "Combo Adicionales Abril",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Mi Domino’s Abril",
+            "description": "Combo Mi Domino’s Abril",
+            "price": 199.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:52:25.161051",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Tlalpan",
+      "zone_category": "periferico",
+      "zone_lat": 19.2876,
+      "zone_lng": -99.1635,
+      "zone_address_input": "Plaza de la Constitución 1, Tlalpan Centro, Tlalpan, 14000 CDMX",
+      "zone_address_resolved": "Plaza de la Constitución 1",
+      "restaurant_brand": "McDonald's",
+      "brand_id": null,
+      "store_id": "83246d96-6a55-4d8b-bd10-577404ee7389",
+      "store_name": "McDonald's Gran Sur",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "30 min",
+      "eta_minutes": 30,
+      "is_open": true,
+      "rating": 4.5,
+      "discount_count": 2,
+      "products_total": 83,
+      "products_matched": {
+        "Big Mac": [
+          {
+            "section": "",
+            "name": "Big Mac Tocino + favoritos",
+            "description": "Big Mac Tocino + favoritos",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Home Office con Big Mac",
+            "description": "Home Office con Big Mac",
+            "price": 99.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío Big Mac mediano+McFlurry Oreo",
+            "description": "McTrío Big Mac mediano+McFlurry Oreo",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac Tocino",
+            "description": "McTrío mediano Big Mac Tocino",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino",
+            "description": "Big Mac Tocino",
+            "price": 145.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac",
+            "description": "McTrío mediano Big Mac",
+            "price": 149.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac",
+            "description": "Big Mac",
+            "price": 125.0,
+            "currency": "MXN"
+          }
+        ],
+        "McNuggets": [
+          {
+            "section": "",
+            "name": "Cajita Feliz  McNuggets Plus",
+            "description": "Cajita Feliz  McNuggets Plus",
+            "price": 229.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets y Papas para Todos",
+            "description": "McNuggets y Papas para Todos",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrio mediano McNuggets 10 pzas",
+            "description": "McTrio mediano McNuggets 10 pzas",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano McNuggets 20 pzas",
+            "description": "McTrío mediano McNuggets 20 pzas",
+            "price": 219.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "description": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "price": 145.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 4 pzas",
+            "description": "McNuggets de Pollo 4 pzas",
+            "price": 59.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 10 pzas",
+            "description": "McNuggets de Pollo 10 pzas",
+            "price": 135.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 6 pzas",
+            "description": "McNuggets de Pollo 6 pzas",
+            "price": 89.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 20 pzas",
+            "description": "McNuggets de Pollo 20 pzas",
+            "price": 199.0,
+            "currency": "MXN"
+          }
+        ],
+        "Cuarto": [
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra con Queso",
+            "description": "McTrío mediano Cuarto de Libra con Queso",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "description": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cuarto De Libra Con Queso",
+            "description": "Cuarto De Libra Con Queso",
+            "price": 135.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:52:52.454659",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Tlalpan",
+      "zone_category": "periferico",
+      "zone_lat": 19.2876,
+      "zone_lng": -99.1635,
+      "zone_address_input": "Plaza de la Constitución 1, Tlalpan Centro, Tlalpan, 14000 CDMX",
+      "zone_address_resolved": "Plaza de la Constitución 1",
+      "restaurant_brand": "Domino's Pizza",
+      "brand_id": null,
+      "store_id": "84220d43-dfe4-5a1b-8646-2409510019b5",
+      "store_name": "Domino's (La Joya)",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "10 min",
+      "eta_minutes": 10,
+      "is_open": true,
+      "rating": 4.7,
+      "discount_count": 7,
+      "products_total": 57,
+      "products_matched": {
+        "Mediana": [
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "description": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Papotas Gratis",
+            "description": "Mediana 1 ing + Papotas Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Canela  Gratis",
+            "description": "Mediana 1 ing + Canela  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Mediana",
+            "description": "Pizza Mediana",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Cajeta  Gratis",
+            "description": "Mediana 1 ing + Cajeta  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes",
+            "description": "Pizza mediana Croissant 1-4 ingredientes",
+            "price": 239.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "description": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "price": 299.0,
+            "currency": "MXN"
+          }
+        ],
+        "Grande": [
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Grande",
+            "description": "Pizza Grande",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "2 Pizzas Grandes",
+            "description": "2 Pizzas Grandes",
+            "price": 319.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Grande 1 ing + Papotas",
+            "description": "Grande 1 ing + Papotas",
+            "price": 318.0,
+            "currency": "MXN"
+          }
+        ],
+        "Combo": [
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Mi Domino’s Abril",
+            "description": "Combo Mi Domino’s Abril",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Adicionales Abril",
+            "description": "Combo Adicionales Abril",
+            "price": 159.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:52:52.454815",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Azcapotzalco",
+      "zone_category": "periferico",
+      "zone_lat": 19.4847,
+      "zone_lng": -99.1854,
+      "zone_address_input": "Av. Azcapotzalco 605, Centro de Azcapotzalco, Azcapotzalco, 02000 CDMX",
+      "zone_address_resolved": "Av. Azcapotzalco 605",
+      "restaurant_brand": "McDonald's",
+      "brand_id": null,
+      "store_id": "0f9a4683-3597-40b0-ac30-48074f084171",
+      "store_name": "McDonald's Walmart Azcapotzalco",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "10 min",
+      "eta_minutes": 10,
+      "is_open": true,
+      "rating": 4.5,
+      "discount_count": 2,
+      "products_total": 70,
+      "products_matched": {
+        "Big Mac": [
+          {
+            "section": "",
+            "name": "Big Mac Tocino + favoritos",
+            "description": "Big Mac Tocino + favoritos",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Home Office con Big Mac",
+            "description": "Home Office con Big Mac",
+            "price": 99.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío Big Mac mediano+McFlurry Oreo",
+            "description": "McTrío Big Mac mediano+McFlurry Oreo",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac Tocino",
+            "description": "McTrío mediano Big Mac Tocino",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino",
+            "description": "Big Mac Tocino",
+            "price": 145.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac",
+            "description": "McTrío mediano Big Mac",
+            "price": 149.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac",
+            "description": "Big Mac",
+            "price": 125.0,
+            "currency": "MXN"
+          }
+        ],
+        "McNuggets": [
+          {
+            "section": "",
+            "name": "McNuggets y Papas para Todos",
+            "description": "McNuggets y Papas para Todos",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz  McNuggets Plus",
+            "description": "Cajita Feliz  McNuggets Plus",
+            "price": 229.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrio mediano McNuggets 10 pzas",
+            "description": "McTrio mediano McNuggets 10 pzas",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano McNuggets 20 pzas",
+            "description": "McTrío mediano McNuggets 20 pzas",
+            "price": 219.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "description": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "price": 145.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 4 pzas",
+            "description": "McNuggets de Pollo 4 pzas",
+            "price": 59.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 10 pzas",
+            "description": "McNuggets de Pollo 10 pzas",
+            "price": 135.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 6 pzas",
+            "description": "McNuggets de Pollo 6 pzas",
+            "price": 89.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 20 pzas",
+            "description": "McNuggets de Pollo 20 pzas",
+            "price": 199.0,
+            "currency": "MXN"
+          }
+        ],
+        "Cuarto": [
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra con Queso",
+            "description": "McTrío mediano Cuarto de Libra con Queso",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "description": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cuarto De Libra Con Queso",
+            "description": "Cuarto De Libra Con Queso",
+            "price": 135.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:53:25.137285",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Azcapotzalco",
+      "zone_category": "periferico",
+      "zone_lat": 19.4847,
+      "zone_lng": -99.1854,
+      "zone_address_input": "Av. Azcapotzalco 605, Centro de Azcapotzalco, Azcapotzalco, 02000 CDMX",
+      "zone_address_resolved": "Av. Azcapotzalco 605",
+      "restaurant_brand": "Domino's Pizza",
+      "brand_id": null,
+      "store_id": "dd420be6-6afa-467a-ac37-6ea73d56f7cc",
+      "store_name": "Domino's Azcapotzalco",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": "10 min",
+      "eta_minutes": 10,
+      "is_open": true,
+      "rating": 4.6,
+      "discount_count": 7,
+      "products_total": 57,
+      "products_matched": {
+        "Mediana": [
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes",
+            "description": "Pizza mediana Croissant 1-4 ingredientes",
+            "price": 239.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Canela  Gratis",
+            "description": "Mediana 1 ing + Canela  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Papotas Gratis",
+            "description": "Mediana 1 ing + Papotas Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Cajeta  Gratis",
+            "description": "Mediana 1 ing + Cajeta  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "description": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "description": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "price": 279.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Mediana",
+            "description": "Pizza Mediana",
+            "price": 169.0,
+            "currency": "MXN"
+          }
+        ],
+        "Grande": [
+          {
+            "section": "",
+            "name": "Pizza Grande",
+            "description": "Pizza Grande",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "2 Pizzas Grandes",
+            "description": "2 Pizzas Grandes",
+            "price": 319.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Grande 1 ing + Papotas",
+            "description": "Grande 1 ing + Papotas",
+            "price": 293.0,
+            "currency": "MXN"
+          }
+        ],
+        "Combo": [
+          {
+            "section": "",
+            "name": "Combo Adicionales Abril",
+            "description": "Combo Adicionales Abril",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Mi Domino’s Abril",
+            "description": "Combo Mi Domino’s Abril",
+            "price": 199.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:53:25.137486",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Milpa Alta",
+      "zone_category": "periferico",
+      "zone_lat": 19.1912,
+      "zone_lng": -99.023,
+      "zone_address_input": "Av. México Norte 45, Villa Milpa Alta, Milpa Alta, 12000 CDMX",
+      "zone_address_resolved": "Av. México Nte. 45",
+      "restaurant_brand": "McDonald's",
+      "brand_id": null,
+      "store_id": "a00e9396-d1fc-41f7-b95a-e0db2759e65b",
+      "store_name": "McDonald's Las Águilas",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": null,
+      "eta_minutes": null,
+      "is_open": true,
+      "rating": 4.5,
+      "discount_count": 2,
+      "products_total": 111,
+      "products_matched": {
+        "Big Mac": [
+          {
+            "section": "",
+            "name": "Big Mac Tocino + favoritos",
+            "description": "Big Mac Tocino + favoritos",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Home Office con Big Mac",
+            "description": "Home Office con Big Mac",
+            "price": 99.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío Big Mac mediano+McFlurry Oreo",
+            "description": "McTrío Big Mac mediano+McFlurry Oreo",
+            "price": 169.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac Tocino",
+            "description": "McTrío mediano Big Mac Tocino",
+            "price": 185.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac Tocino",
+            "description": "Big Mac Tocino",
+            "price": 159.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Big Mac",
+            "description": "McTrío mediano Big Mac",
+            "price": 165.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Big Mac",
+            "description": "Big Mac",
+            "price": 139.0,
+            "currency": "MXN"
+          }
+        ],
+        "McNuggets": [
+          {
+            "section": "",
+            "name": "Cajita Feliz  McNuggets Plus",
+            "description": "Cajita Feliz  McNuggets Plus",
+            "price": 229.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets y Papas para Todos",
+            "description": "McNuggets y Papas para Todos",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrio mediano McNuggets 10 pzas",
+            "description": "McTrio mediano McNuggets 10 pzas",
+            "price": 175.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano McNuggets 20 pzas",
+            "description": "McTrío mediano McNuggets 20 pzas",
+            "price": 225.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "description": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "price": 155.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 4 pzas",
+            "description": "McNuggets de Pollo 4 pzas",
+            "price": 59.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 10 pzas",
+            "description": "McNuggets de Pollo 10 pzas",
+            "price": 149.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 6 pzas",
+            "description": "McNuggets de Pollo 6 pzas",
+            "price": 105.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McNuggets de Pollo 20 pzas",
+            "description": "McNuggets de Pollo 20 pzas",
+            "price": 205.0,
+            "currency": "MXN"
+          }
+        ],
+        "Cuarto": [
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra con Queso",
+            "description": "McTrío mediano Cuarto de Libra con Queso",
+            "price": 175.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "description": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "price": 205.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Cuarto De Libra Con Queso",
+            "description": "Cuarto De Libra Con Queso",
+            "price": 149.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:53:51.325667",
+      "error": null
+    },
+    {
+      "platform": "uber_eats",
+      "zone_name": "Milpa Alta",
+      "zone_category": "periferico",
+      "zone_lat": 19.1912,
+      "zone_lng": -99.023,
+      "zone_address_input": "Av. México Norte 45, Villa Milpa Alta, Milpa Alta, 12000 CDMX",
+      "zone_address_resolved": "Av. México Nte. 45",
+      "restaurant_brand": "Domino's Pizza",
+      "brand_id": null,
+      "store_id": "30c10f48-3516-4779-ad31-8685e4a704d0",
+      "store_name": "Domino's Legaría",
+      "store_address": null,
+      "delivery_fee": null,
+      "service_fee_pct": 0.0,
+      "eta_label": null,
+      "eta_minutes": null,
+      "is_open": true,
+      "rating": 4.7,
+      "discount_count": 7,
+      "products_total": 57,
+      "products_matched": {
+        "Mediana": [
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "description": "Pizza mediana Croissant 1-4 ingredientes + Adicional",
+            "price": 289.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza mediana Croissant 1-4 ingredientes",
+            "description": "Pizza mediana Croissant 1-4 ingredientes",
+            "price": 239.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Canela  Gratis",
+            "description": "Mediana 1 ing + Canela  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Papotas Gratis",
+            "description": "Mediana 1 ing + Papotas Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana 1 ing + Cajeta  Gratis",
+            "description": "Mediana 1 ing + Cajeta  Gratis",
+            "price": 189.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "description": "Mediana de 1 a 4 Ing Orilla rellena de queso",
+            "price": 279.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Mediana",
+            "description": "Pizza Mediana",
+            "price": 169.0,
+            "currency": "MXN"
+          }
+        ],
+        "Grande": [
+          {
+            "section": "",
+            "name": "2 Pizzas Grandes",
+            "description": "2 Pizzas Grandes",
+            "price": 319.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Pizza Grande",
+            "description": "Pizza Grande",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Grande 1 ing + Papotas",
+            "description": "Grande 1 ing + Papotas",
+            "price": 293.0,
+            "currency": "MXN"
+          }
+        ],
+        "Combo": [
+          {
+            "section": "",
+            "name": "Combo Mi Domino’s Abril",
+            "description": "Combo Mi Domino’s Abril",
+            "price": 199.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "description": "Combo 2 pizzas medianas 1 ing masa original + refresco 1.5 lts + papotas",
+            "price": 349.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Grande",
+            "description": "Combo Grande",
+            "price": 249.0,
+            "currency": "MXN"
+          },
+          {
+            "section": "",
+            "name": "Combo Adicionales Abril",
+            "description": "Combo Adicionales Abril",
+            "price": 159.0,
+            "currency": "MXN"
+          }
+        ]
+      },
+      "scraped_at": "2026-04-21T19:53:51.325821",
+      "error": null
+    }
+  ],
+  "errors": []
+}

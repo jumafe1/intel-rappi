@@ -1,0 +1,5 @@
+pytest
+pytest-asyncio
+ruff
+ipykernel
+nbformat>=4.2.0

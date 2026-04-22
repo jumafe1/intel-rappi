@@ -1,0 +1,13 @@
+playwright
+playwright-stealth
+pydantic
+pydantic-settings
+python-dotenv
+streamlit
+pandas
+duckdb
+plotly
+httpx
+beautifulsoup4
+structlog
+typer

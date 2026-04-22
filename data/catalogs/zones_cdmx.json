@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Polanco",
+    "category": "premium",
+    "lat": 19.4326,
+    "lon": -99.1956,
+    "address": "Av. Presidente Masaryk 200, Polanco V Secc, Miguel Hidalgo, 11560 CDMX"
+  },
+  {
+    "name": "Lomas de Chapultepec",
+    "category": "premium",
+    "lat": 19.4263,
+    "lon": -99.2397,
+    "address": "Paseo de la Reforma 1100, Lomas de Chapultepec, Miguel Hidalgo, 11000 CDMX"
+  },
+  {
+    "name": "Roma Norte",
+    "category": "premium",
+    "lat": 19.4195,
+    "lon": -99.1607,
+    "address": "Av. Álvaro Obregón 99, Roma Norte, Cuauhtémoc, 06700 CDMX"
+  },
+  {
+    "name": "Condesa",
+    "category": "premium",
+    "lat": 19.4112,
+    "lon": -99.1718,
+    "address": "Av. Amsterdam 120, Hipódromo Condesa, Cuauhtémoc, 06100 CDMX"
+  },
+  {
+    "name": "Santa Fe",
+    "category": "premium",
+    "lat": 19.3619,
+    "lon": -99.2728,
+    "address": "Av. Vasco de Quiroga 3800, Santa Fe, Cuajimalpa, 05348 CDMX"
+  },
+  {
+    "name": "Del Valle",
+    "category": "premium",
+    "lat": 19.3736,
+    "lon": -99.1659,
+    "address": "Av. Insurgentes Sur 955, Del Valle Centro, Benito Juárez, 03100 CDMX"
+  },
+  {
+    "name": "Coyoacán Centro",
+    "category": "premium",
+    "lat": 19.3509,
+    "lon": -99.1617,
+    "address": "Jardín Plaza Hidalgo 1, Villa Coyoacán, Coyoacán, 04000 CDMX"
+  },
+  {
+    "name": "Narvarte",
+    "category": "medio",
+    "lat": 19.3924,
+    "lon": -99.1561,
+    "address": "Eje Central Lázaro Cárdenas 1036, Narvarte Poniente, Benito Juárez, 03020 CDMX"
+  },
+  {
+    "name": "Escandón",
+    "category": "medio",
+    "lat": 19.4036,
+    "lon": -99.1785,
+    "address": "Av. Patriotismo 229, Escandón I Secc, Miguel Hidalgo, 11800 CDMX"
+  },
+  {
+    "name": "Anzures",
+    "category": "medio",
+    "lat": 19.4301,
+    "lon": -99.1762,
+    "address": "Calle Leibnitz 40, Anzures, Miguel Hidalgo, 11590 CDMX"
+  },
+  {
+    "name": "Portales",
+    "category": "medio",
+    "lat": 19.3685,
+    "lon": -99.1459,
+    "address": "Calz. de Tlalpan 855, Portales Norte, Benito Juárez, 03300 CDMX"
+  },
+  {
+    "name": "Doctores",
+    "category": "medio",
+    "lat": 19.4217,
+    "lon": -99.1455,
+    "address": "Dr. Río de la Loza 132, Doctores, Cuauhtémoc, 06720 CDMX"
+  },
+  {
+    "name": "San Rafael",
+    "category": "medio",
+    "lat": 19.4375,
+    "lon": -99.1659,
+    "address": "Av. Insurgentes Centro 56, San Rafael, Cuauhtémoc, 06470 CDMX"
+  },
+  {
+    "name": "Tacubaya",
+    "category": "medio",
+    "lat": 19.4027,
+    "lon": -99.1878,
+    "address": "Av. Jalisco 50, Tacubaya, Miguel Hidalgo, 11870 CDMX"
+  },
+  {
+    "name": "Mixcoac",
+    "category": "medio",
+    "lat": 19.3762,
+    "lon": -99.1872,
+    "address": "Av. Revolución 1141, Mixcoac, Benito Juárez, 03910 CDMX"
+  },
+  {
+    "name": "Iztapalapa Centro",
+    "category": "periferico",
+    "lat": 19.3579,
+    "lon": -99.0676,
+    "address": "Aldama 63, Barrio San Lucas, Iztapalapa, 09000 CDMX"
+  },
+  {
+    "name": "Tláhuac",
+    "category": "periferico",
+    "lat": 19.2850,
+    "lon": -99.0033,
+    "address": "Av. Tláhuac 6105, San Lorenzo Tezonco, Tláhuac, 09900 CDMX"
+  },
+  {
+    "name": "Xochimilco",
+    "category": "periferico",
+    "lat": 19.2570,
+    "lon": -99.1053,
+    "address": "Guadalupe I. Ramírez 4, Barrio El Rosario, Xochimilco, 16070 CDMX"
+  },
+  {
+    "name": "Tlalpan",
+    "category": "periferico",
+    "lat": 19.2876,
+    "lon": -99.1635,
+    "address": "Plaza de la Constitución 1, Tlalpan Centro, Tlalpan, 14000 CDMX"
+  },
+  {
+    "name": "Cuautepec",
+    "category": "periferico",
+    "lat": 19.5466,
+    "lon": -99.1395,
+    "address": "Av. Miguel Bernard 500, Cuautepec Barrio Alto, Gustavo A. Madero, 07100 CDMX"
+  },
+  {
+    "name": "Azcapotzalco",
+    "category": "periferico",
+    "lat": 19.4847,
+    "lon": -99.1854,
+    "address": "Av. Azcapotzalco 605, Centro de Azcapotzalco, Azcapotzalco, 02000 CDMX"
+  },
+  {
+    "name": "Milpa Alta",
+    "category": "periferico",
+    "lat": 19.1912,
+    "lon": -99.0230,
+    "address": "Av. México Norte 45, Villa Milpa Alta, Milpa Alta, 12000 CDMX"
+  }
+]

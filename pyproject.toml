@@ -1,0 +1,15 @@
+[project]
+name = "rappi-competitive-intel"
+version = "0.1.0"
+description = "Competitive scraping and benchmarking system for Rappi vs competitors in CDMX."
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [{ name = "AI Engineer Candidate" }]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"

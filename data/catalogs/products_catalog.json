@@ -1,0 +1,46 @@
+{
+  "mcdonalds": {
+    "brand_canonical": "McDonald's",
+    "platform_ids": {
+      "rappi": "TODO_RAPPI_STORE_ID",
+      "uber_eats": "TODO_UBER_STORE_ID",
+      "didi_food": "TODO_DIDI_STORE_ID"
+    },
+    "products": [
+      {
+        "canonical_name": "Big Mac",
+        "search_terms": ["Big Mac"]
+      },
+      {
+        "canonical_name": "McNuggets 6pc",
+        "search_terms": ["McNuggets 6", "Nuggets 6 piezas"]
+      },
+      {
+        "canonical_name": "Cuarto de Libra con queso",
+        "search_terms": ["Cuarto de Libra"]
+      }
+    ]
+  },
+  "dominos": {
+    "brand_canonical": "Domino's Pizza",
+    "platform_ids": {
+      "rappi": "TODO_RAPPI_STORE_ID",
+      "uber_eats": "TODO_UBER_STORE_ID",
+      "didi_food": "TODO_DIDI_STORE_ID"
+    },
+    "products": [
+      {
+        "canonical_name": "Pizza Mediana 1 Ingrediente",
+        "search_terms": ["Mediana 1 ingrediente", "Pizza Mediana"]
+      },
+      {
+        "canonical_name": "Pizza Grande 1 Ingrediente",
+        "search_terms": ["Grande 1 ingrediente", "Pizza Grande"]
+      },
+      {
+        "canonical_name": "Combo Mi Domino's",
+        "search_terms": ["Mi Domino's", "Combo Individual"]
+      }
+    ]
+  }
+}
