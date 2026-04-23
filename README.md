@@ -14,6 +14,10 @@ The repo is organized around one practical flow:
 2. build the DuckDB warehouse
 3. analyze the warehouse in the Jupyter notebook
 
+The competitive reports and analytical findings are delivered inside the repo in the notebook:
+
+- [`notebooks/competitive_insights.ipynb`](notebooks/competitive_insights.ipynb)
+
 ## Setup
 
 Create and activate the project environment:
@@ -114,6 +118,8 @@ python scripts/run_pipeline.py --skip-scrape
 The analytical notebook lives in:
 
 - [`notebooks/competitive_insights.ipynb`](notebooks/competitive_insights.ipynb)
+
+This notebook is also where the competitive reports live: pricing, ETA, fees, promotions, availability, charts, and the actionable insights derived from the warehouse.
 
 It reads from:
 

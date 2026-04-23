@@ -40,6 +40,8 @@
 - Added a compact metric-coverage section to define which platform comparisons are valid
 - Added structured comparative analysis for pricing, ETA, fees, promotions, and zone variability
 - Added supporting charts and narrative callouts for each comparison block
+- Strengthened the notebook with executive-style `Finding / Impacto / Recomendación` insight blocks backed by warehouse numbers, including the exact Rappi no-coverage cases and anchor-item price examples
+- Moved the metric-coverage strategic insight into the operational section so it reads as an actionable advantage rather than a disconnected note
 - Preserved `product_term`, `platform_brand`, and `zone_platform` analytical tables inside the notebook for direct inspection
 - Updated notebook smoke tests to align with the current notebook scope
 - Verification completed:

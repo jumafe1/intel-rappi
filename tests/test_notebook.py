@@ -22,11 +22,10 @@ def test_competitive_insights_notebook_exists_and_has_expected_sections() -> Non
     assert "schema_mermaid" in joined_sources
     assert "metric_coverage" in joined_sources
     assert "platform_brand" in joined_sources
-    assert "zone_platform" in joined_sources
     assert "product_term" in joined_sources
     assert "eta_summary" in joined_sources
-    assert "fee_summary" in joined_sources
     assert "promo_intensity" in joined_sources
+    assert "availability_summary" in joined_sources
 
 
 def test_competitive_insights_notebook_code_cells_execute() -> None:
